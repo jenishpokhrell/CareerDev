@@ -1,0 +1,17 @@
+.background-container{
+    background-image: url('/assets/home 2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.image-container{
+    background-image: url('/assets/home 3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+footer p .active-link{
+    font-weight: 600;
+}
